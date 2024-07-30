@@ -2,7 +2,7 @@
 Hello, my name is Arya Athaullah Rafi. I'm a dedicated software engineering student at Vocational High School 1 Surabaya with a strong passion for artificial intelligence and data science. I am eager to learn, grow, and contribute to innovative projects in these fields.
 
 
-## Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryathaullah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryathaullah) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aryathaullah) 
 
 # Tech Stack:
