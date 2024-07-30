@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/aryathaullah/aryathaullah/blob/main/Black%20Liquid%20Minimalist%20Daily%20Quotes%20LinkedIn%20Banner%20(4).png)](https://rishavchanda.io)
 # About Me :
 Hello, my name is Arya Athaullah Rafi. I'm a dedicated software engineering student at Vocational High School 1 Surabaya with a strong passion for artificial intelligence and data science. I am eager to learn, grow, and contribute to innovative projects in these fields.
 
