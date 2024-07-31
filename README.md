@@ -1,4 +1,6 @@
-# About Me :
+# 🏄‍♂️ Arya Athaullah Rafi
+**`Software Engineering (Data Scientist/Data Analyst/Developer)`**
+
 Hello, my name is Arya Athaullah Rafi. I'm a dedicated software engineering student at Vocational High School 1 Surabaya with a strong passion for artificial intelligence and data science. I am eager to learn, grow, and contribute to innovative projects in these fields.
 
 
