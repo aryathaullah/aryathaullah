@@ -1,4 +1,3 @@
-# Hello 👋
 **`Data Enthusiast ( Data Scientist / Data Analyst )`**
 
 Hello, I'm Arya a software engineering student at Vocational High School 1 Surabaya with a strong passion for artificial intelligence and data science. I am eager to learn, grow, and contribute to innovative projects in these fields.
